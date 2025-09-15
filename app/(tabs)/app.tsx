@@ -40,7 +40,7 @@ export default function AppScreen() {
           className="mt-4 bg-purple-500 px-4 py-2 rounded-full shadow-lg"
         >
           <Text className="text-white font-bold text-center text-lg">
-            + Add Task
+            + Add Taskk
           </Text>
         </Pressable>
       </View>
